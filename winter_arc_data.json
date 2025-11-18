@@ -1,0 +1,23 @@
+{
+  "1390106778741506089": {
+    "points": 8,
+    "today": {
+      "wake": true,
+      "protein": true,
+      "vitamins": true,
+      "tidy": true,
+      "dishes": true
+    },
+    "last_date": "2025-11-18",
+    "streak": 0,
+    "best_streak": 0,
+    "history": {},
+    "reminders": {
+      "2025-11-19": [
+        "maksa laskut",
+        "parturi",
+        "siivoa"
+      ]
+    }
+  }
+}
